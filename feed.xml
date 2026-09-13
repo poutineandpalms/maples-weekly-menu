@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Maple's Recipe Test Feed</title>
+    <link>https://www.blueapron.com/recipes/seared-chicken-lemon-labneh-over-spicy-squash-farro</link>
+    <description>A few Blue Apron and Home Chef recipes to test Mela feed import.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Sep 2026 19:15:00 EDT</lastBuildDate>
+    <item>
+      <title>Seared Chicken &amp; Lemon Labneh over Spicy Squash Farro (Blue Apron)</title>
+      <link>https://www.blueapron.com/recipes/seared-chicken-lemon-labneh-over-spicy-squash-farro</link>
+      <guid>https://www.blueapron.com/recipes/seared-chicken-lemon-labneh-over-spicy-squash-farro</guid>
+      <pubDate>Sun, 13 Sep 2026 12:00:00 EDT</pubDate>
+      <description>Seared chicken over spiced farro with roasted squash, currants, and roasted red peppers, finished with lemon labneh and a honey-chile dressing. (Blue Apron)</description>
+    </item>
+    <item>
+      <title>Beef Meatballs in Creamy Onion Gravy (Home Chef)</title>
+      <link>https://www.homechef.com/meals/beef-meatballs-in-creamy-onion-gravy</link>
+      <guid>https://www.homechef.com/meals/beef-meatballs-in-creamy-onion-gravy</guid>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 EDT</pubDate>
+      <description>Beef meatballs with Dijon in a creamy onion gravy, served over mashed potatoes with baby spinach. (Home Chef)</description>
+    </item>
+    <item>
+      <title>Sesame-Panko Crusted Chicken with Roasted Broccoli, Potatoes &amp; Yuzu Mayo (Blue Apron)</title>
+      <link>https://www.blueapron.com/recipes/standard-meal-kit/sesame-panko-crusted-chicken-with-roasted-broccoli-potatoes-yuzu-mayo</link>
+      <guid>https://www.blueapron.com/recipes/standard-meal-kit/sesame-panko-crusted-chicken-with-roasted-broccoli-potatoes-yuzu-mayo</guid>
+      <pubDate>Fri, 11 Sep 2026 12:00:00 EDT</pubDate>
+      <description>Oven-roasted chicken breasts under a sesame-panko crust with yuzu mayo, alongside sesame-roasted broccoli, potatoes, and red onion. (Blue Apron)</description>
+    </item>
+    <item>
+      <title>Snappy Steak &amp; Guacamole Taco (Home Chef)</title>
+      <link>https://www.homechef.com/meals/snappy-steak-guacamole-taco</link>
+      <guid>https://www.homechef.com/meals/snappy-steak-guacamole-taco</guid>
+      <pubDate>Thu, 10 Sep 2026 12:00:00 EDT</pubDate>
+      <description>Steak tacos with guacamole, cheddar-jack, crispy jalapenos, and baby arugula. (Home Chef)</description>
+    </item>
+    <item>
+      <title>Sheet Pan Fig-Dijon Chicken Thighs with Roasted Potatoes, Peppers &amp; Goat Cheese (Blue Apron)</title>
+      <link>https://blueapron.com/recipes/standard-meal-kit/sheet-pan-fig-glazed-chicken-thighs-with-roasted-vegetables-goat-cheese?cycle_date=2026-05-18&amp;product_id=a1033cfd-1d6a-4819-9b9d-c91452e27a7b&amp;item_id=e343bfb6-2a07-4e71-999b-9f1307b10fa4&amp;product_servings=2</link>
+      <guid>https://blueapron.com/recipes/standard-meal-kit/sheet-pan-fig-glazed-chicken-thighs-with-roasted-vegetables-goat-cheese?cycle_date=2026-05-18&amp;product_id=a1033cfd-1d6a-4819-9b9d-c91452e27a7b&amp;item_id=e343bfb6-2a07-4e71-999b-9f1307b10fa4&amp;product_servings=2</guid>
+      <pubDate>Wed, 09 Sep 2026 12:00:00 EDT</pubDate>
+      <description>Chicken thighs glazed with fig spread, Dijon, and thyme, roasted on one sheet pan with potatoes, peppers, and red onion, finished with goat cheese. (Blue Apron)</description>
+    </item>
+    <item>
+      <title>Mojito Lime Chicken Salad (Home Chef)</title>
+      <link>https://www.homechef.com/meals/mojito-lime-chicken-salad</link>
+      <guid>https://www.homechef.com/meals/mojito-lime-chicken-salad</guid>
+      <pubDate>Tue, 08 Sep 2026 12:00:00 EDT</pubDate>
+      <description>Romaine salad with mojito-lime seasoned chicken, roasted red peppers, tortilla strips, and chipotle ranch dressing. (Home Chef)</description>
+    </item>
+  </channel>
+</rss>
