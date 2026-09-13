@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Maple's Recipe Test Feed</title>
-    <link>https://www.blueapron.com/recipes/seared-chicken-lemon-labneh-over-spicy-squash-farro</link>
-    <description>A few Blue Apron and Home Chef recipes to test Mela feed import.</description>
+    <title>Maple's Weekly Menu</title>
+    <link>https://poutineandpalms.github.io/maples-weekly-menu/</link>
+    <description>A weekly menu of recipe picks, curated for the Mela recipe app.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2026 19:15:00 EDT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 19:30:00 EDT</lastBuildDate>
     <item>
       <title>Seared Chicken &amp; Lemon Labneh over Spicy Squash Farro (Blue Apron)</title>
       <link>https://www.blueapron.com/recipes/seared-chicken-lemon-labneh-over-spicy-squash-farro</link>
